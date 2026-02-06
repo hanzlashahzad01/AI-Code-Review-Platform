@@ -296,14 +296,49 @@ ai-code-review-platform/
 
 ## 🎨 Screenshots
 
+## Sign-up / Sign-in Page
+
+<img width="1918" height="1033" alt="sign up" src="https://github.com/user-attachments/assets/c2f43476-1941-4e35-adcb-328958adbaae" />
+
+<img width="1919" height="1033" alt="sign in" src="https://github.com/user-attachments/assets/3b4e4034-199b-40d2-ad4d-2765eb7c86f9" />
+
+
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1919" height="1029" alt="1" src="https://github.com/user-attachments/assets/3f671044-71dc-4ead-bb5a-82b812460f6b" />
+
+<img width="1919" height="1031" alt="2" src="https://github.com/user-attachments/assets/09ae15a0-4d26-496e-a7b8-9776c5071172" />
+
+<img width="1919" height="1030" alt="3" src="https://github.com/user-attachments/assets/7fa1713f-af87-4a71-8427-42988658080f" />
+
+<img width="1919" height="1032" alt="dashboard" src="https://github.com/user-attachments/assets/96dd964b-83bf-4546-9438-b5fcf7a084fe" />
+
+<img width="1919" height="1031" alt="d1" src="https://github.com/user-attachments/assets/a47be471-85c5-4119-983e-fe8c073f754b" />
+
+<img width="1919" height="1032" alt="new porject" src="https://github.com/user-attachments/assets/661bd14d-8fa0-483b-a6a9-549fb5de9aba" />
+
+<img width="1919" height="1029" alt="profile" src="https://github.com/user-attachments/assets/94d4a928-1213-4fc8-a222-df5dbac78fe7" />
 
 ### Code Review
-![Code Review](screenshots/review.png)
+
+<img width="1919" height="1032" alt="check code " src="https://github.com/user-attachments/assets/a49fbdae-689d-4652-bfca-13c827c0b25a" />
+
+<img width="1918" height="1030" alt="c2" src="https://github.com/user-attachments/assets/bfb2cb37-bcc0-44b9-9eeb-950b1e51ec93" />
+
+<img width="1919" height="1031" alt="t" src="https://github.com/user-attachments/assets/023e6169-17b1-4f06-8e80-2c7987ed3966" />
+
+<img width="1919" height="1032" alt="h" src="https://github.com/user-attachments/assets/de56edb8-d165-4198-9d4f-35a1015a3d10" />
+
+## Notification & Light Mood
+
+<img width="1919" height="1032" alt="noti" src="https://github.com/user-attachments/assets/f10d16d8-c975-4e3c-9cc4-931efc0751b2" />
+
+<img width="1919" height="1029" alt="light" src="https://github.com/user-attachments/assets/85524520-b2fb-44c5-813a-65d77a499add" />
+
 
 ### PDF Report
-![PDF Report](screenshots/pdf-report.png)
+
+<img width="1918" height="1029" alt="r" src="https://github.com/user-attachments/assets/bcc4ec4b-baf9-4593-904d-21e598ad1095" />
+
 
 ## 🚀 Deployment
 
