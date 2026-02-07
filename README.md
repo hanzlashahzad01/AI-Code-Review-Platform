@@ -363,8 +363,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@hanzlashahzad01](https://github.com/hanzlashahzad01)
+- LinkedIn: [Hanzla Shahzad](https://linkedin.com/in/hanzlashahzad)
 
 ## 🙏 Acknowledgments
 
