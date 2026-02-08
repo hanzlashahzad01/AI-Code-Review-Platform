@@ -375,7 +375,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email your@email.com or create an issue in the repository.
+For support, email hanzlashahzadhanzlashahzad@email.com or create an issue in the repository.
 
 ---
 
