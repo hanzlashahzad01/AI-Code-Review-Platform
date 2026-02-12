@@ -282,6 +282,12 @@ ai-code-review-platform/
 - `GET /api/comments/:projectId` - Get comments
 - `DELETE /api/comments/:commentId` - Delete comment
 
+## 🛡 Input Validation
+
+The platform ensures users provide valid code before analysis.  
+This prevents empty or incorrect submissions and improves result accuracy.
+
+
 ### Versions
 - `POST /api/versions/:projectId` - Create version
 - `GET /api/versions/:projectId` - Get versions
