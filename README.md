@@ -13,6 +13,14 @@
 - ✅ JWT Authentication
 - ✅ GitHub-style Profile Pages
 - ✅ Profile Editing (Username, GitHub Link, Avatar)
+  
+- 🤖 AI-powered code analysis
+- 🐞 Detects potential bugs and bad practices
+- 🚀 Suggests performance improvements
+- 🧹 Promotes clean and maintainable code
+- ⚡ Fast and responsive user interface
+- 📊 Structured review output
+
 
 ### 📁 Project Management
 - ✅ Create Projects
