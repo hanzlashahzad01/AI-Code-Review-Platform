@@ -393,4 +393,4 @@ For support, email hanzlashahzadhanzlashahzad@email.com or create an issue in th
 
 ---
 
-**Built with ❤️ using MERN Stack + AI**
+**Built with using MERN Stack + AI**
