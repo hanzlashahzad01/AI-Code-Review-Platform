@@ -392,5 +392,3 @@ This project is licensed under the MIT License.
 For support, email hanzlashahzadhanzlashahzad@email.com or create an issue in the repository.
 
 ---
-
-## Made by Hanzla Shahzad
